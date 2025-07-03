@@ -1,0 +1,13 @@
+h1 {
+    display: flex;
+    justify-content: center;}
+
+section{
+    width: 100vw;
+        display : flex;
+    justify-content: center;
+}
+
+section :nth-child(1) {
+    width: 50%;
+}

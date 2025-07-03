@@ -1,0 +1,6 @@
+body{background-color: rgb(71, 159, 236);
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;}
+
+
+section {display :flex
+;    justify-content: space-around;}
