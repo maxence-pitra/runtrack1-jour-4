@@ -1,6 +1,16 @@
-body{background-color: rgb(71, 159, 236);
-font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;}
+body{
+    background-color: rgb(71, 159, 236);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
 
+a{
+    text-decoration: none;
+    color: rgb(236, 9, 13);
+}
 
-section {display :flex
-;    justify-content: space-around;}
+nav { 
+    display: flex;
+    justify-content:  space-around; 
+}
+
+nav a:hover{ color: rgb(234, 239, 250);}
